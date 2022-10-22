@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Your Extensionues",
+  "version": "1.0.0",
+  "description": "Extensieson Description",
+  "action": {
+    "default_icon": "2048/thumb.png",
+    "default_popup": "2048/index.html"
+  },
+  "icons": {
+    "16": "assets/icon16.png",
+    "48": "assets/icon48.png",
+    "128": "assets/icon128.png"
+  }
+}
